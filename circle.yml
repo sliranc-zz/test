@@ -6,8 +6,7 @@ machine:
 
   # Version of ruby to use
   ruby:
-    version:
-      version: 1.9.3-p0-falcon
+    version: 1.9.3-p0-falcon
 
   # Override /etc/hosts
   #hosts:
