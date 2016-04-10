@@ -51,7 +51,7 @@ checkout:
 ## Customize test commands
 #test:
  # override:
-    - env: # use PHPunit for testing
+   # - env: # use PHPunit for testing
   #post:
   #  - bundle exec rake jasmine:ci: # add an extra test type
   #      environment:
