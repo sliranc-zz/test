@@ -49,8 +49,8 @@ checkout:
   #  - bundle exec rake db:create db:schema:load
 
 ## Customize test commands
-test:
-  override:
+#test:
+ # override:
     - env: # use PHPunit for testing
   #post:
   #  - bundle exec rake jasmine:ci: # add an extra test type
